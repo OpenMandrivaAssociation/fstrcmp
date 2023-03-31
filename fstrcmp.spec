@@ -5,7 +5,7 @@
 
 Name:           fstrcmp
 Version:        0.7.D001
-Release:        1
+Release:        2
 Summary:        Library that is used to make fuzzy comparisons of strings and byte arrays
 Group:          System/Libraries
 License:        GPLv2
