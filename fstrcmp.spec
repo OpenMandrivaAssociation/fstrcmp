@@ -9,7 +9,7 @@ Release:        2
 Summary:        Library that is used to make fuzzy comparisons of strings and byte arrays
 Group:          System/Libraries
 License:        GPLv2
-URL:            http://fstrcmp.sourceforge.net/
+URL:            https://fstrcmp.sourceforge.net/
 Source0:        http://fstrcmp.sourceforge.net/%{name}-%{version}.tar.gz
 
 BuildRequires:  groff
