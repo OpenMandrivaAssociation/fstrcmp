@@ -12,6 +12,11 @@ License:        GPLv2
 URL:            https://fstrcmp.sourceforge.net/
 Source0:        http://fstrcmp.sourceforge.net/%{name}-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  groff
 BuildRequires:  libtool
 BuildRequires:  ghostscript
